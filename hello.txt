@@ -4,17 +4,4 @@ hello git
 hello git
 hello git
 hello git
-hello git
-hello git
-hello git
-hello git
-hello git
-hello git
-hello git
-hello git
-
-hello git
-hello git
-hello git
-hello git
-hsasdaello git
+endl;
