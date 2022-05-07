@@ -5,8 +5,4 @@ hello git
 hello git
 hello git
 endl;
-master commit;
-master commit;
-master commit;
-master commit;
-master commit;
+hot fix four
